@@ -26,7 +26,7 @@
 
    链接: https://pan.baidu.com/s/13zCKsrFxVEuo3llD-Ry7XQ 提取码: 4u4d 
 
-   x光的部署是通过C#进行的
+   x光的部署是通过C#进行的(本仓库修改为了python版本)
    
    CT病灶分割中
 
